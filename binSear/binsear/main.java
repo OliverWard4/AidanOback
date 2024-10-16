@@ -1,4 +1,4 @@
-package AidanOback.binSear;
+package AidanOback.binSear.binsear;
 
 public class main {
 

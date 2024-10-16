@@ -1,10 +1,11 @@
-package AidanOback.binSear;
+package AidanOback.binSear.binsear;
 
 public class BinarySearch {
 
     public static int binarySearch(String[] arr, String target) {
 
         // String Variant
+
         int high = arr.length;
         int low = 0;
         while (low <= high) {
